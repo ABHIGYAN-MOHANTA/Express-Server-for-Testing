@@ -1,0 +1,408 @@
+{
+  "books": [
+    {
+      "rank": "1",
+      "name": "THE LAW OF SUCCESS"
+    },
+    {
+      "rank": "2",
+      "name": "THE HYPOMANIC EDGE"
+    },
+    {
+      "rank": "3",
+      "name": "HOW TO WIN FRIENDS & INFLUENCE PEOPLE"
+    },
+    {
+      "rank": "4",
+      "name": "BARBARIANS TO BUREAUCRATS"
+    },
+    {
+      "rank": "5",
+      "name": "POWER VS. FORCE"
+    },
+    {
+      "rank": "6",
+      "name": "GREAT BUSINESS TEAMS"
+    },
+    {
+      "rank": "7",
+      "name": "CRUCIAL CONVERSATIONS"
+    },
+    {
+      "rank": "8",
+      "name": "MASTERY"
+    },
+    {
+      "rank": "9",
+      "name": "E-MYTH"
+    },
+    {
+      "rank": "10",
+      "name": "33 STRATEGIES OF WAR"
+    },
+    {
+      "rank": "11",
+      "name": "TRIBAL LEADERSHIP"
+    },
+    {
+      "rank": "12",
+      "name": "THE 48 LAWS OF POWER"
+    },
+    {
+      "rank": "13",
+      "name": "THE ART OF SEDUCTION"
+    },
+    {
+      "rank": "14",
+      "name": "FIRST RATE MADNESS"
+    },
+    {
+      "rank": "15",
+      "name": "HOW TO MASTER THE ART OF SELLING"
+    },
+    {
+      "rank": "16",
+      "name": "SAM WALTON MADE IN AMERICA"
+    },
+    {
+      "rank": "17",
+      "name": "THE LEAN STARTUP"
+    },
+    {
+      "rank": "18",
+      "name": "THE ROAD TO FREEDOM"
+    },
+    {
+      "rank": "19",
+      "name": "DAVID AND GOLIATH"
+    },
+    {
+      "rank": "20",
+      "name": "LINCOLN ON LEADERSHIP"
+    },
+    {
+      "rank": "21",
+      "name": "MEDITATIONS BY MARCUS AURELIUS"
+    },
+    {
+      "rank": "22",
+      "name": "OUTWITTING THE DEVIL"
+    },
+    {
+      "rank": "23",
+      "name": "11 RINGS BY PHIL JACKSON"
+    },
+    {
+      "rank": "24",
+      "name": "PSYCHO- CYBERNETICS"
+    },
+    {
+      "rank": "25",
+      "name": "THE ULTIMATE GIFT"
+    },
+    {
+      "rank": "26",
+      "name": "ESSENTIAL DRUCKER"
+    },
+    {
+      "rank": "27",
+      "name": "FISH BY STEPHEN C. LUNDIN AND HARRY PAUL"
+    },
+    {
+      "rank": "28",
+      "name": "BODY FOR LIFE"
+    },
+    {
+      "rank": "29",
+      "name": "ATLAS SHRUGGED"
+    },
+    {
+      "rank": "30",
+      "name": "ART OF WAR BY SUN TZU"
+    },
+    {
+      "rank": "31",
+      "name": "PUSHING UP PEOPLE"
+    },
+    {
+      "rank": "32",
+      "name": "THE FIVE LOVE LANGUAGES"
+    },
+    {
+      "rank": "33",
+      "name": "THE GREATEST SALESMAN IN THE WORLD"
+    },
+    {
+      "rank": "34",
+      "name": "15 INVALUABLE LAWS OF GROWTH"
+    },
+    {
+      "rank": "35",
+      "name": "THE TRUE BELIEVER"
+    },
+    {
+      "rank": "36",
+      "name": "THE NICHOMACHEAN ETHICS"
+    },
+    {
+      "rank": "37",
+      "name": "A FEW LESSONS FOR INVESTORS AND MANAGERS"
+    },
+    {
+      "rank": "38",
+      "name": "ACTING IN FILM BY MICHAEL CAINE"
+    },
+    {
+      "rank": "39",
+      "name": "BLUE OCEAN STRATEGY"
+    },
+    {
+      "rank": "40",
+      "name": "SCREWTAPE LETTERS"
+    },
+    {
+      "rank": "41",
+      "name": "START WITH WHY"
+    },
+    {
+      "rank": "42",
+      "name": "IRREFUTABLE LAWS OF LEADERSHIP – LEADERSHIP 101"
+    },
+    {
+      "rank": "43",
+      "name": "101 QUESTIONS TO ASK BEFORE YOU GET ENGAGED"
+    },
+    {
+      "rank": "44",
+      "name": "THE POWER OF ETHICAL MANAGEMENT"
+    },
+    {
+      "rank": "45",
+      "name": "LOVE & RESPECT"
+    },
+    {
+      "rank": "46",
+      "name": "THINK AND GROW RICH"
+    },
+    {
+      "rank": "47",
+      "name": "THE PRINCE"
+    },
+    {
+      "rank": "48",
+      "name": "THE WEALTH OF NATIONS"
+    },
+    {
+      "rank": "49",
+      "name": "COMMON SENSE"
+    },
+    {
+      "rank": "50",
+      "name": "THE AGE OF REASON"
+    },
+    {
+      "rank": "51",
+      "name": "THE ANALECTS CONFUCIOUS"
+    },
+    {
+      "rank": "52",
+      "name": "DEMOCRACY IN AMERICA"
+    },
+    {
+      "rank": "53",
+      "name": "ABC’S OF BUILDING A BUSINESS TEAM THAT WINS"
+    },
+    {
+      "rank": "54",
+      "name": "7 STRATEGIES FOR WEALTH & HAPPINESS"
+    },
+    {
+      "rank": "55",
+      "name": "THE WIT AND WISDOM OF ABRAHAM LINCOLN"
+    },
+    {
+      "rank": "56",
+      "name": "CYRUS THE GREAT: THE ARTS OF LEADERSHIP AND WAR"
+    },
+    {
+      "rank": "57",
+      "name": "THE LAW"
+    },
+    {
+      "rank": "58",
+      "name": "CAPITALISM & FREEDOM"
+    },
+    {
+      "rank": "59",
+      "name": "EMOTIONAL INTELLIGENCE 2.0"
+    },
+    {
+      "rank": "60",
+      "name": "THE ALCHEMIST"
+    },
+    {
+      "rank": "61",
+      "name": "DELIVERING HAPPINESS"
+    },
+    {
+      "rank": "62",
+      "name": "BUILT TO LAST"
+    },
+    {
+      "rank": "63",
+      "name": "SECRETS OF THE MILLIONAIRE MIND"
+    },
+    {
+      "rank": "64",
+      "name": "I’D LIKE THE WORLD TO BUY A COKE: THE LIFE AND LEADERSHIP OF ROBERTO GOIZUETA"
+    },
+    {
+      "rank": "65",
+      "name": "SPY THE LIE"
+    },
+    {
+      "rank": "66",
+      "name": "HOW CAPITALISM WILL SAVE US"
+    },
+    {
+      "rank": "67",
+      "name": "RICH DAD POOR DAD"
+    },
+    {
+      "rank": "68",
+      "name": "BEYOND POSITIVE THINKING"
+    },
+    {
+      "rank": "69",
+      "name": "THEY CALL ME COACH"
+    },
+    {
+      "rank": "70",
+      "name": "17 INDISPUTABLE LAWS OF TEAMWORK"
+    },
+    {
+      "rank": "71",
+      "name": "THE 5 DYSFUNCTIONS OF A TEAM"
+    },
+    {
+      "rank": "72",
+      "name": "WINNERS NEVER CHEAT"
+    },
+    {
+      "rank": "73",
+      "name": "MAN’S SEARCH FOR MEANING"
+    },
+    {
+      "rank": "74",
+      "name": "MAGIC OF THINKING BIG"
+    },
+    {
+      "rank": "75",
+      "name": "EVERYONE COMMUNICATES, FEW CONNECT"
+    },
+    {
+      "rank": "76",
+      "name": "ACCIDENTAL MILLIONAIRE"
+    },
+    {
+      "rank": "77",
+      "name": "A GENTLEMEN GETS DRESSED UP"
+    },
+    {
+      "rank": "78",
+      "name": "HOW TO BE A LADY"
+    },
+    {
+      "rank": "79",
+      "name": "HOW TO BECOME A RAINMAKER"
+    },
+    {
+      "rank": "80",
+      "name": "OUTLIERS: THE STORY OF SUCCESS"
+    },
+    {
+      "rank": "81",
+      "name": "THE LEADERSHIP SECRETS OF BILLY GRAHAM"
+    },
+    {
+      "rank": "82",
+      "name": "POOR CHARLIE’S ALMANACK: THE WIT AND WISDOM OF CHARLES T. MUNGER"
+    },
+    {
+      "rank": "83",
+      "name": "THE BOOK THIEF"
+    },
+    {
+      "rank": "84",
+      "name": "UP THE ORGANIZATION"
+    },
+    {
+      "rank": "85",
+      "name": "THE OBSTACLE IS THE LAW"
+    },
+    {
+      "rank": "86",
+      "name": "WINNING"
+    },
+    {
+      "rank": "87",
+      "name": "HOW TO STOP WORRYING AND START LIVING"
+    },
+    {
+      "rank": "87",
+      "name": "HOW TO STOP WORRYING AND START LIVING"
+    },
+    {
+      "rank": "88",
+      "name": "THE GAME"
+    },
+    {
+      "rank": "89",
+      "name": "THE POWER OF HABIT"
+    },
+    {
+      "rank": "90",
+      "name": "THE GREATEST IDEAS AND MINDS OF ALL TIME"
+    },
+    {
+      "rank": "91",
+      "name": "THE FOUR AGREEMENTS"
+    },
+    {
+      "rank": "92",
+      "name": "SAMSON SYNDROME"
+    },
+    {
+      "rank": "93",
+      "name": "CRUSH IT"
+    },
+    {
+      "rank": "94",
+      "name": "INNOVATION & ENTREPRENEURSHIP"
+    },
+    {
+      "rank": "95",
+      "name": "HOW NOT TO BE WRONG"
+    },
+    {
+      "rank": "96",
+      "name": "WORKING TOGETHER"
+    },
+    {
+      "rank": "97",
+      "name": "WIT AND WISDOM OF THE AMERICAN PRESIDENT"
+    },
+    {
+      "rank": "98",
+      "name": "ZEN GOLF"
+    },
+    {
+      "rank": "99",
+      "name": "GAME OF NUMBERS"
+    },
+    {
+      "rank": "100",
+      "name": "THE ROAD TO SERFDOM"
+    }
+  ]
+}
